@@ -152,5 +152,38 @@
       "proofreading": 0,
       "artwork": 0
     }
+  },
+  {
+    "id": 15,
+    "name": "A Universe from Nothing? – The Qur’an’s Argument for God (จักรวาลมาจากความว่างเปล่าจริงหรือ? ข้อโต้แย้งจากอัลกุรอานเกี่ยวกับการมีอยู่ของพระเจ้า) จากหนังสือ The-Divine-Reality บทที่ 5",
+    "author": "ฮัมซะฮ์ แอนเดรส ซอซิส",
+    "progress": {
+      "translation": 80,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }
+  },
+  {
+    "id": 16,
+    "name": "Know God, Know Good – God and Objective Morality (รู้จักพระเจ้า แล้วจะรู้จักความดี – พระเจ้าและศีลธรรมแบบวัตถุวิสัย) จากหนังสือ The-Divine-Reality บทที่ 9",
+    "author": "ฮัมซะฮ์ แอนเดรส ซอซิส",
+    "progress": {
+      "translation": 20,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }
+  },
+  {
+    "id": 17,
+    "name": "แนวทางของบรรดานะบีในการขัดเกลาจิตใจให้บริสุทธิ์ (منهج الأنبياء في تزكية النفوس)",
+    "author": "ซุลัยม์ บิน อีด อัลฮิลาลีย์",
+    "progress": {
+      "translation": 50,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }
   }
 ]
