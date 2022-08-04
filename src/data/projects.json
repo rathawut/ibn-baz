@@ -185,5 +185,38 @@
       "proofreading": 0,
       "artwork": 0
     }
+  },
+  {
+    "id": 18,
+    "name": "บทที่ 8: เสรีนิยม และความหน้าไหว้หลังหลอกของความเสรี (Liberalism, Liberal Hyprocrisy)",
+    "author": "Daniel Haqiqatjou",
+    "progress": {
+      "translation": 100,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }
+  },
+  {
+    "id": 19,
+    "name": "[บทความ] Conditions of La ilaaha ilia Allaah (เงื่อนไขของคำชาฮาดะฮ์ ลาอิลาฮะ อิลลัลเลาะฮ์)",
+    "author": "ชัยค์ญะมาลุดดีน ซาราโบโซ",
+    "progress": {
+      "translation": 100,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }
+  },
+  {
+    "id": 20,
+    "name": "โรคภัยของหัวใจและวิธีการรักษา (أمراض القلوب وشفاؤها)",
+    "author": "ชัยคุลอิสลามอิบนุตัยมียะฮ์",
+    "progress": {
+      "translation": 20,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }
   }
 ]
