@@ -7,7 +7,7 @@
       "translation": 100,
       "checking": 100,
       "proofreading": 100,
-      "artwork": 80
+      "artwork": 100
     }
   },
   {
@@ -17,8 +17,8 @@
     "progress": {
       "translation": 100,
       "checking": 100,
-      "proofreading": 70,
-      "artwork": 0
+      "proofreading": 90,
+      "artwork": 50
     }
   },
   {
@@ -28,7 +28,7 @@
     "progress": {
       "translation": 100,
       "checking": 100,
-      "proofreading": 10,
+      "proofreading": 50,
       "artwork": 0
     }
   },
@@ -39,7 +39,7 @@
     "progress": {
       "translation": 100,
       "checking": 100,
-      "proofreading": 10,
+      "proofreading": 50,
       "artwork": 0
     }
   },
@@ -60,7 +60,7 @@
     "author": "ชัยค์อับดุสสะลาม อัชชุวัยอิร",
     "progress": {
       "translation": 100,
-      "checking": 20,
+      "checking": 100,
       "proofreading": 0,
       "artwork": 0
     }
@@ -71,7 +71,7 @@
     "author": "ชัยค์อะห์มัด บิน มุฮัมมัด อัลนัจญาร",
     "progress": {
       "translation": 100,
-      "checking": 20,
+      "checking": 100,
       "proofreading": 0,
       "artwork": 0
     }
@@ -82,7 +82,7 @@
     "author": "ชัยค์ศอเลียะฮ์ บินเฟาซาน อัลเฟาซาน",
     "progress": {
       "translation": 100,
-      "checking": 10,
+      "checking": 80,
       "proofreading": 0,
       "artwork": 0
     }
@@ -114,7 +114,7 @@
     "name": "ตัฟซีรซูเราะฮ์กะฮ์ฟี",
     "author": "ชัยค์มุฮัมมัด บินศอเลียะฮ์ อัลอุษัยมีน",
     "progress": {
-      "translation": 70,
+      "translation": 100,
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
@@ -125,7 +125,7 @@
     "name": "ชัรห์อะกีดะฮ์อิมามมุฮัมมัด บินอับดุลวะฮ์ฮาบ",
     "author": "ชัยค์ศอเลียะฮ์ บินเฟาซาน อัลเฟาซาน",
     "progress": {
-      "translation": 25,
+      "translation": 80,
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
@@ -136,7 +136,7 @@
     "name": "ชัรห์อัรบะอีน อันนะวะวี (อธิบาย 40 ฮะดีษอิมามนะวะวี)",
     "author": "ชัยค์ศอเลียะฮ์ บินอับดุลอะซีซ อาลิชชัยค์",
     "progress": {
-      "translation": 10,
+      "translation": 25,
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
@@ -147,7 +147,7 @@
     "name": "อุศูลตัฟยีดอัลกีตาบวัซซุนนะฮ์บิฟะฮ์มิสสะลัฟอัศศอเลียะฮ์ (หลักเกณฑ์ในในการทำความเข้าใจอัลกุรอานและซุนนะฮ์ตามความเข้าใจของสะละฟุศศอเลียะฮ์)",
     "author": "ชัยค์อะห์มัด บิน มุฮัมมัด อัลนัจญาร",
     "progress": {
-      "translation": 90,
+      "translation": 100,
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
@@ -158,8 +158,8 @@
     "name": "A Universe from Nothing? – The Qur’an’s Argument for God (จักรวาลมาจากความว่างเปล่าจริงหรือ? ข้อโต้แย้งจากอัลกุรอานเกี่ยวกับการมีอยู่ของพระเจ้า) จากหนังสือ The-Divine-Reality บทที่ 5",
     "author": "ฮัมซะฮ์ แอนเดรส ซอซิส",
     "progress": {
-      "translation": 80,
-      "checking": 0,
+      "translation": 100,
+      "checking": 100,
       "proofreading": 0,
       "artwork": 0
     }
@@ -169,8 +169,8 @@
     "name": "Know God, Know Good – God and Objective Morality (รู้จักพระเจ้า แล้วจะรู้จักความดี – พระเจ้าและศีลธรรมแบบวัตถุวิสัย) จากหนังสือ The-Divine-Reality บทที่ 9",
     "author": "ฮัมซะฮ์ แอนเดรส ซอซิส",
     "progress": {
-      "translation": 20,
-      "checking": 0,
+      "translation": 100,
+      "checking": 100,
       "proofreading": 0,
       "artwork": 0
     }
@@ -180,7 +180,7 @@
     "name": "แนวทางของบรรดานะบีในการขัดเกลาจิตใจให้บริสุทธิ์ (منهج الأنبياء في تزكية النفوس)",
     "author": "ซุลัยม์ บิน อีด อัลฮิลาลีย์",
     "progress": {
-      "translation": 50,
+      "translation": 80,
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
