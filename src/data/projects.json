@@ -125,7 +125,7 @@
     "name": "ชัรห์อะกีดะฮ์อิมามมุฮัมมัด บินอับดุลวะฮ์ฮาบ",
     "author": "ชัยค์ศอเลียะฮ์ บินเฟาซาน อัลเฟาซาน",
     "progress": {
-      "translation": 80,
+      "translation": 100,
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
@@ -136,7 +136,7 @@
     "name": "ชัรห์อัรบะอีน อันนะวะวี (อธิบาย 40 ฮะดีษอิมามนะวะวี)",
     "author": "ชัยค์ศอเลียะฮ์ บินอับดุลอะซีซ อาลิชชัยค์",
     "progress": {
-      "translation": 25,
+      "translation": 50,
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
@@ -148,7 +148,7 @@
     "author": "ชัยค์อะห์มัด บิน มุฮัมมัด อัลนัจญาร",
     "progress": {
       "translation": 100,
-      "checking": 0,
+      "checking": 100,
       "proofreading": 0,
       "artwork": 0
     }
@@ -217,6 +217,38 @@
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
+    }},
+          {
+    "id": 21,
+    "name": "ซาบิฆอต:เราจะรับมือกับข้อคลุมเครือต่อแนวคิดร่วมสมัยอย่างไร?",
+    "author": "ชัยค์อะฮ์มัด บินยูซุฟ อัลซัยยิด",
+    "progress": {
+      "translation": 30,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }},
+     {
+    "id": 22,
+    "name": "กามิลุศศูเราะฮ์:กรอบคิดพื้นฐานเกี่ยวกับหลักการอิสลาม",
+    "author": "ชัยค์อะฮ์มัด บินยูซุฟ อัลซัยยิด",
+    "progress": {
+      "translation": 0,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
     }
+     },
+     {
+    "id": 23,
+    "name": "ชัรฮ์อะกีดะฮ์อัฏเฏาะฮาวียะฮ์",
+    "author": "ชัยค์ศอเลียะฮ์ บินเฟาซาน อัลเฟาซาน",
+    "progress": {
+      "translation": 0,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    }
+  
   }
 ]
