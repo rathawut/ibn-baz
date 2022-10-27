@@ -217,6 +217,36 @@
       "checking": 0,
       "proofreading": 0,
       "artwork": 0
+    },
+          {
+    "id": 21,
+    "name": "ซาบิฆอต:เราจะรับมือกับข้อคลุมเครือต่อแนวคิดร่วมสมัยอย่างไร?",
+    "author": "ชัยค์อะฮ์มัด บินยูซุฟ อัลซัยยิด",
+    "progress": {
+      "translation": 30,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    },
+     {
+    "id": 22,
+    "name": "กามิลุศศูเราะฮ์:กรอบคิดพื้นฐานเกี่ยวกับหลักการอิสลาม",
+    "author": "ชัยค์อะฮ์มัด บินยูซุฟ อัลซัยยิด",
+    "progress": {
+      "translation": 0,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
+    },
+     {
+    "id": 23,
+    "name": "ชัรฮ์อะกีดะฮ์อัฏเฏาะฮาวียะฮ์",
+    "author": "ชัยค์ศอเลียะฮ์ บินเฟาซาน อัลเฟาซาน",
+    "progress": {
+      "translation": 0,
+      "checking": 0,
+      "proofreading": 0,
+      "artwork": 0
     }
   }
 ]
